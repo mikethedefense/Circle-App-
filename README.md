@@ -1,4 +1,5 @@
 # Circle-App-
+**Version 1.00**
 
 ## Description
 An app with GUI that calculates circle area
