@@ -1,4 +1,4 @@
-# Circle-App-
+# CircleApp
 **Version 1.00**
 
 ## Description
